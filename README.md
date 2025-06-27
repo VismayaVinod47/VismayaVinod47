@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Vismaya N V!<br><br>🎓 3rd year B.Tech student in Computer Science & Engineering  <br>🏫 Studying at Christ College of Engineering, Irinjalakuda  <br>💻 Passionate about coding, web development, and emerging tech  <br>🌱 Currently learning full-stack development and improving my DSA skills  <br>🛠️ Languages & tools I use: C, Python, HTML/CSS, JavaScript  <br>✨ Exploring areas like AI, open source, and software engineering best practices  <br>📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/https://github.com/VismayaVinod47)
+# 👋 Hi, I'm Vismaya N V!<br><br>🎓 4th year B.Tech student in Computer Science & Engineering  <br>🏫 Studying at Christ College of Engineering, Irinjalakuda  <br>💻 Passionate about coding, web development, and emerging tech  <br>🌱 Currently learning full-stack development and improving my DSA skills  <br>🛠️ Languages & tools I use: C, Python, HTML/CSS, JavaScript  <br>✨ Exploring areas like AI, open source, and software engineering best practices  <br>📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/https://github.com/VismayaVinod47)
 
 
 ## 🌐 Socials:
